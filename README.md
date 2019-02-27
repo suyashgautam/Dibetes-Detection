@@ -1,5 +1,5 @@
-# Project Captone: Supervised Learning
-## Building a Diabetes Detection System
+
+## Diabetes Detection System
 
 ### Install
 
